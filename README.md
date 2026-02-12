@@ -23,7 +23,7 @@ Compare weekday vs weekend demand behavior
 
 Provide strategic recommendations for revenue optimization
 **
-🗂 Data Architecture & Modeling Approach**
+🗂 **Data Architecture & Modeling Approach****
 
 The dataset was structured using a star schema model, integrating multiple CSV sources into:
 
@@ -61,7 +61,7 @@ Cancellation Rate
 
 Average Customer Rating
 
-🔎 Strategic Insights
+**🔎 Strategic Insights**
 1️⃣ Occupancy Drives Revenue Volatility
 
 Occupancy ranged from ~44% to 66%, indicating demand concentration in specific properties. RevPAR fluctuations were primarily occupancy-driven rather than pricing-driven.
@@ -82,7 +82,7 @@ Weekend occupancy (62.6%) significantly exceeded weekday occupancy (55.8%), refl
 
 While Realisation % remained consistent (~70%), ADR differed across booking platforms, affecting profitability mix.
 
-💡 Business Recommendations
+💡 **Business Recommendations**
 
 Optimize Property-Level Pricing
 Adjust pricing dynamically based on occupancy bands instead of uniform rate strategy.
@@ -96,7 +96,7 @@ Encourage direct bookings for high-performing properties while leveraging OTAs f
 Diversify Revenue Mix
 Expand business segment packages to reduce over-reliance on luxury revenue streams.
 
-📈 Dashboard Highlights
+📈 **Dashboard Highlights**
 
 The interactive dashboard includes:
 

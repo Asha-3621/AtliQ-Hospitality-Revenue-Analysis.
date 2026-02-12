@@ -1,5 +1,6 @@
 **🏨 AtliQ Grands – Hospitality Revenue & Performance Analytics**
-📌 Executive Summary
+
+**📌 Executive Summary**
 
 This project evaluates the revenue performance of AtliQ Grands across multiple cities, room categories, and booking platforms over a three-month period.
 
@@ -62,6 +63,7 @@ Cancellation Rate
 Average Customer Rating
 
 **🔎 Strategic Insights**
+
 1️⃣ Occupancy Drives Revenue Volatility
 
 Occupancy ranged from ~44% to 66%, indicating demand concentration in specific properties. RevPAR fluctuations were primarily occupancy-driven rather than pricing-driven.

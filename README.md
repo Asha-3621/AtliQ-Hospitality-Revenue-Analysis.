@@ -1,9 +1,9 @@
-**🏨 AtliQ Grands – Hospitality Revenue & Performance Analytics**
+## **🏨 AtliQ Grands – Hospitality Revenue & Performance Analytics**
 
 Live Power Bi Dashboard:
 https://app.powerbi.com/reportEmbed?reportId=04e9b946-81e3-4c77-83a3-3aa94145efb9&autoAuth=true&ctid=93f33571-550f-43cf-b09f-cd331338d086
 
-**📌 Executive Summary**
+## **📌 Executive Summary**
 
 This project evaluates the revenue performance of AtliQ Grands across multiple cities, room categories, and booking platforms over a three-month period.
 
@@ -11,11 +11,11 @@ Despite maintaining steady booking volumes, revenue growth showed inconsistencie
 
 The final deliverable is an interactive Power BI dashboard built to support decision-making for Sales, Marketing, Finance, and Leadership teams.
 
-**Domain: Hospitality Analytics**
+## **Domain: Hospitality Analytics**
 Tool Stack: Power BI (DAX, Data Modeling, Visualization)
 Data Scope: 3 months of transactional booking data
 
-**🎯 Business Objectives**
+## **🎯 Business Objectives**
 
 Diagnose uneven revenue performance across properties
 Measure the impact of occupancy and ADR on RevPAR
@@ -23,7 +23,7 @@ Evaluate booking channel effectiveness
 Compare weekday vs weekend demand behavior
 Provide strategic recommendations for revenue optimization
 **
-🗂 **Data Architecture & Modeling Approach****
+## 🗂 **Data Architecture & Modeling Approach****
 
 The dataset was structured using a star schema model, integrating multiple CSV sources into:
 Fact Tables: Booking & revenue transactions
@@ -32,12 +32,12 @@ Key implementation steps: Data cleaning & transformation, Relationship building
 Creation of DAX-based KPI measures
 Interactive filtering (City, Room Class, Week, Day Type)
 
-**📊 Core Performance Metrics**
+## **📊 Core Performance Metrics**
 
 The analysis framework focused on industry-standard hospitality KPIs:
 Revenue ,ADR (Average Daily Rate), RevPAR, Occupancy %,Realisation %, DSRN / DBRN / DURN, Cancellation, Rate, Average,Customer Rating
 
-**🔎 Strategic Insights**
+## **🔎 Strategic Insights**
 
 1️⃣ Occupancy Drives Revenue Volatility
 
@@ -59,7 +59,7 @@ Weekend occupancy (62.6%) significantly exceeded weekday occupancy (55.8%), refl
 
 While Realisation % remained consistent (~70%), ADR differed across booking platforms, affecting profitability mix.
 
-💡 **Business Recommendations**
+## 💡 **Business Recommendations**
 
 Optimize Property-Level Pricing
 Adjust pricing dynamically based on occupancy bands instead of uniform rate strategy.
@@ -73,7 +73,7 @@ Encourage direct bookings for high-performing properties while leveraging OTAs f
 Diversify Revenue Mix
 Expand business segment packages to reduce over-reliance on luxury revenue streams.
 
-📈 **Dashboard Highlights**
+## 📈 **Dashboard Highlights**
 
 The interactive dashboard includes:
 
@@ -91,7 +91,7 @@ Realisation % insights
 
 Designed with a clean KPI hierarchy, intuitive slicers, and stakeholder-friendly visualization logic.
 
-🛠 **Skills Demonstrated**
+## 🛠 **Skills Demonstrated**
 
 Data Modeling (Star Schema Design)
 

@@ -1,7 +1,7 @@
+**🏨 AtliQ Grands – Hospitality Revenue & Performance Analytics**
+
 Live Power Bi Dashboard:
 https://app.powerbi.com/reportEmbed?reportId=04e9b946-81e3-4c77-83a3-3aa94145efb9&autoAuth=true&ctid=93f33571-550f-43cf-b09f-cd331338d086
-
-**🏨 AtliQ Grands – Hospitality Revenue & Performance Analytics**
 
 **📌 Executive Summary**
 
@@ -18,52 +18,24 @@ Data Scope: 3 months of transactional booking data
 **🎯 Business Objectives**
 
 Diagnose uneven revenue performance across properties
-
 Measure the impact of occupancy and ADR on RevPAR
-
 Evaluate booking channel effectiveness
-
 Compare weekday vs weekend demand behavior
-
 Provide strategic recommendations for revenue optimization
 **
 🗂 **Data Architecture & Modeling Approach****
 
 The dataset was structured using a star schema model, integrating multiple CSV sources into:
-
 Fact Tables: Booking & revenue transactions
-
 Dimension Tables: Date, Property, Room Category, Booking Platform
-
-Key implementation steps:
-
-Data cleaning & transformation
-
-Relationship building
-
+Key implementation steps: Data cleaning & transformation, Relationship building
 Creation of DAX-based KPI measures
-
 Interactive filtering (City, Room Class, Week, Day Type)
 
 **📊 Core Performance Metrics**
 
 The analysis framework focused on industry-standard hospitality KPIs:
-
-Revenue
-
-ADR (Average Daily Rate)
-
-RevPAR
-
-Occupancy %
-
-Realisation %
-
-DSRN / DBRN / DURN
-
-Cancellation Rate
-
-Average Customer Rating
+Revenue ,ADR (Average Daily Rate), RevPAR, Occupancy %,Realisation %, DSRN / DBRN / DURN, Cancellation, Rate, Average,Customer Rating
 
 **🔎 Strategic Insights**
 
@@ -119,7 +91,7 @@ Realisation % insights
 
 Designed with a clean KPI hierarchy, intuitive slicers, and stakeholder-friendly visualization logic.
 
-**🛠 Skills Demonstrated**
+🛠 ** Skills Demonstrated**
 
 Data Modeling (Star Schema Design)
 

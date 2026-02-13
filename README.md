@@ -91,7 +91,7 @@ Realisation % insights
 
 Designed with a clean KPI hierarchy, intuitive slicers, and stakeholder-friendly visualization logic.
 
-🛠 ** Skills Demonstrated**
+🛠 **Skills Demonstrated**
 
 Data Modeling (Star Schema Design)
 
@@ -103,6 +103,6 @@ Interactive Dashboard UX Design
 
 Data-Driven Business Storytelling
 
-**🤝 Acknowledgment**
+## **🤝 Acknowledgment**
 
 This project was developed as part of a structured analytics challenge and enhanced through continuous learning and applied business thinking.

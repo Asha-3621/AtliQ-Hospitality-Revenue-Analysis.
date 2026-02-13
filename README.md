@@ -1,3 +1,6 @@
+Live Power Bi Dashboard:
+https://app.powerbi.com/reportEmbed?reportId=04e9b946-81e3-4c77-83a3-3aa94145efb9&autoAuth=true&ctid=93f33571-550f-43cf-b09f-cd331338d086
+
 **🏨 AtliQ Grands – Hospitality Revenue & Performance Analytics**
 
 **📌 Executive Summary**
